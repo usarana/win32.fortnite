@@ -1,0 +1,10 @@
+D:\desktop\programs\Win32.Fortnite\bin\Debug\Win32.Fortnite.exe.config
+D:\desktop\programs\Win32.Fortnite\bin\Debug\Win32.Fortnite.exe
+D:\desktop\programs\Win32.Fortnite\bin\Debug\Win32.Fortnite.pdb
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.csprojAssemblyReference.cache
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.Properties.Resources.resources
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.csproj.GenerateResource.cache
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.csproj.CoreCompileInputs.cache
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.exe
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.pdb
+D:\desktop\programs\Win32.Fortnite\obj\Debug\Win32.Fortnite.Functions.resources
